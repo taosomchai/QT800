@@ -1,0 +1,11 @@
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\bin\Debug\test_printer_qt800.exe.config
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.vbprojResolveAssemblyReference.cache
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.Form1.resources
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.Resources.resources
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.vbproj.GenerateResource.Cache
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.xml
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\bin\Debug\test_printer_qt800.exe
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\bin\Debug\test_printer_qt800.pdb
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\bin\Debug\test_printer_qt800.xml
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.exe
+c:\users\sesa94921\documents\visual studio 2015\Projects\test_printer_qt800\test_printer_qt800\obj\Debug\test_printer_qt800.pdb
